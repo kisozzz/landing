@@ -1,0 +1,108 @@
+.card-yellow {
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 1000px;
+  padding: 10px;
+}
+
+.card-yellow > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-yellow h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-yellow p {
+  font-size: 12px;
+  opacity: .7;
+  margin: 0;
+}
+
+
+.card-red {
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 1000px;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.card-red > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-red h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-red p {
+  font-size: 12px;
+  opacity: .7;
+  margin: 0;
+}
+
+
+.card-green {
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 1000px;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.card-green > img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-green h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-green p {
+  font-size: 12px;
+  opacity: .7;
+  margin: 0;
+}
+
+.card {
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.card-container {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+.card-container h2 {
+  text-align: center;
+  color: #A6E342;
+  padding: 50px;
+}
+/*.card-trip .card-trip-infos {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+*/

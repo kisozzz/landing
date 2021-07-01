@@ -1,0 +1,24 @@
+.btn-red {
+	background-color: #E2F74F;
+	padding: 13px;
+	cursor:pointer;
+	border: 1.5px solid white;
+    width:50px;
+    height:50px;
+    transition: background 1s;
+    border-radius: 50%;
+    color: #4199D4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn-red:hover {
+    background-image:url("../../images/button hot.png");
+    background-size: 86%;
+    background-position: center;
+    color: rgba(0, 0, 0, 0);
+}
+
